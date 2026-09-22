@@ -1,0 +1,6 @@
+{
+  "name": "SCMA115 Calculus Solver",
+  "description": "Full-stack calculus solver with SymPy, KaTeX, and PWA support for all SCMA115 course topics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
